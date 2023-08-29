@@ -1,0 +1,27 @@
+How To Use CHATGPT
+##########################
+step 1:Prompt to make chatGPT act like your couch
+	
+eg:
+
+Act as a career counsellor who specialize in helping fresh graduates get high paying salary jobs.
+You need to coach me for getting a great tech job as fresh B.com Graduates.
+
+I am a student studying B.com in Delhi university.
+i am in my last semester.
+I have 6 months left in college.
+I want to get a new job in the field of UI/Ux design.
+I have no experiance in UI/UX Design.
+i want You to help me prepare for high paying remote job in a tech company based out of Delhi or Banglore.
+
+step 2:Set the right context,constraints and expectations
+
+Give me a 6 month plan to upskill myself.
+I can only give1 hour daily five days a week from monday to friday by the end of these 6 months.
+I want to successfully get a remote job as UI/UX designer in a good tech companythat pays me INR 90,000 per month. 
+
+Free tools and sites
+#######################################################################
+i>FlowGTP.com      :chatgpt prompt and usecases example
+ii>snackprompt.com :readymade propmt message example
+iii>chatgpt-4 usecases from Ansh Mehra
